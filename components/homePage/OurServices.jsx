@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 
-import Box from "./box";
-import Container from "./Container";
+import Box from "../Box";
+import Container from "../Container";
 
 function OurServices() {
   const { t } = useTranslation();
@@ -22,7 +22,7 @@ function OurServices() {
   ];
 
   const renderServices = services.map((service) => {
-    return <Box key={service.title} service={service} />;
+    return <Box key={service.title} data={service} />;
   });
   return (
     <Container>

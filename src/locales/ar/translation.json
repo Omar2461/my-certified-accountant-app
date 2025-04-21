@@ -6,6 +6,7 @@
   "Services": "خدماتنا",
   "Testimonials": "شهادات",
   "Contact": "تواصل معنا",
+  "ContactUs":"تواصل معنا",
   "welcome": "أهلاً بك",
   "description": "هذا موقع متعدد اللغات",
   "Professional Accounting Services You Can Trust": "خدمات المحاسبة المهنية التي يمكنك الوثوق بها",
@@ -17,5 +18,8 @@
   "Bookkeeping": "مسك الدفاتر",
   "Monthly reconciliation, financial reporting, and expense tracking.": "المصالحة الشهرية، والتقارير المالية، وتتبع النفقات",
   "Financial Planning": "التخطيط المالي",
-  "Strategic advice to help you grow and protect your wealth.": "نصائح استراتيجية لمساعدتك على تنمية ثروتك وحمايتها"
+  "Strategic advice to help you grow and protect your wealth.": "نصائح استراتيجية لمساعدتك على تنمية ثروتك وحمايتها",
+  "What Our Clients Say":"ماذا يقول عملاؤنا",
+  "Saved me thousands in taxes. Highly recommend":"وفّر لي آلاف الدولارات من الضرائب. أنصح به بشدة.",
+  "Professional,reliable,and knowledgeable":"محترف، موثوق، وذو خبرة"
 }

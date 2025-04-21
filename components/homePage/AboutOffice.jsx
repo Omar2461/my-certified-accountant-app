@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import Container from "./Container";
+import Container from "../Container";
 
 function AboutOffice() {
   const { t } = useTranslation();
